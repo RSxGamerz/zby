@@ -106,7 +106,7 @@ else
 }
 //========[OWNER DATA]===//
 
-  if (($userId == "5813794105") || ($userId == "1087968824"))
+  if (($userId == "6405726891") || ($userId == "6647568354"))
   {
     $role = "OWNER";
   }
@@ -150,7 +150,7 @@ include('chker/userl.php');
 
 
 //////////////////////////////
-$sk = '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';
+$sk = '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';
 
 
 

@@ -22,7 +22,7 @@ $username = $update["message"]["from"]["username"];
 $message = $update["message"]["text"];
 $messageId = $update["message"]["message_id"];
 //$pm = $message['reply_to_message']['text'];
-$bowner = "<a href='t.me/cyberxbd'>CyberXBD</a>";
+$bowner = "<a href='t.me/RX_OuO'>RX Bhai</a>";
 //$header = "CYBERXBD";
 $mail = 'MrXdragon'.random_strings(6).'';
 $pass = random_strings(8);
@@ -106,7 +106,7 @@ else
 }
 //========[OWNER DATA]===//
 
-  if (($userId == "6405726891") || ($userId == "6647568354"))
+  if (($userId == "6647568354") || ($userId == "6647568354"))
   {
     $role = "OWNER";
   }

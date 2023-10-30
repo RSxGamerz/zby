@@ -150,7 +150,7 @@ include('chker/userl.php');
 
 
 //////////////////////////////
-$sk = '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';
+$sk = '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';
 
 
 
